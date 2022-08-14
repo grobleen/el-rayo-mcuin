@@ -1,0 +1,34 @@
+body{
+text-align: center;
+margin: 0;    
+}
+.profile{
+border-radius: 50%;    
+}
+#welcome{
+background: linear-gradient(#FA0202 0%,#FAE402 100% );    
+}
+.menu{
+width:100%;
+font-family: fantasy;
+position:fixed;
+margin-top:0px;
+right:30px;
+z-index:10;
+cursor: pointer
+}
+.links{
+display: inline;    
+float: left;
+padding-top: 5px;
+padding-left: 9px;
+padding-right: 9px;
+padding-bottom: 5px;
+}
+#bio{
+font-family:Georgia, 'Times New Roman', Times, serif;
+padding: 50px;    
+}
+a{
+text-decoration:none;    
+}
